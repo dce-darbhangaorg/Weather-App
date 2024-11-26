@@ -6,8 +6,11 @@ A user-friendly web app to check real-time weather updates for any city. Display
 **Features**
 
 🌍 Search weather by city name.
+
 🌡️ Display temperature, humidity, wind speed, and weather conditions.
+
 📍 Use geolocation to get weather for your current location.
+
 Responsive design for desktop and mobile.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
